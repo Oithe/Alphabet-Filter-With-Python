@@ -7,4 +7,5 @@ They must retain the original order of the characters in the returned strings.
 For example, if we give input as "programming". The output will be as below.
 
 prgrmmng
+
 oai
